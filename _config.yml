@@ -1,0 +1,28 @@
+name: stijnknapen
+favicon: null
+layout_spectrum: 0.48320734105072916
+typography_spectrum: 0.7757220026105642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7029124572873116
+  lightness: 0.5158819372300059
+  saturation: 0.6728005898185074
+  rhythmicContrast: 0.04514832724817097
+purpose: []
